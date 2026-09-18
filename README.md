@@ -17,7 +17,7 @@ Sejarah Pos Indonesia bermula dari didirikannya Kantor Pos pertama di Batavia (J
 ---
 
 ## Logo Perusahaan
-![Logo PT Pos Indonesia (Persero)](https://www.posindonesia.co.id/assets/frontend/images/logo-pos.png)
+![Logo PT Pos Indonesia (Persero)](pages-makna-logo-4.jpg)
 
 *Logo PT Pos Indonesia berupa simbol Burung Merpati yang sedang terbang dengan bola dunia di belakangnya, didominasi warna Oranye khas Pos Indonesia dan tulisan "POS INDONESIA".*
 
@@ -25,7 +25,7 @@ Sejarah Pos Indonesia bermula dari didirikannya Kantor Pos pertama di Batavia (J
 
 ## Visi Perusahaan
 Menjadi penyedia solusi logistik, kurir, dan jasa keuangan terpercaya yang terintegrasi secara digital di Indonesia.
-
+    
 ---
 
 ## Misi Perusahaan
